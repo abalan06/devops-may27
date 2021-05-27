@@ -4,5 +4,5 @@
 
 I have added some text
 
-* this is a lsit item
+* this is a list item
 * this is another list item
